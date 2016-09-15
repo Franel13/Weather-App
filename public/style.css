@@ -1,0 +1,51 @@
+header {
+  text-align: center;
+  font-size: 3em;
+}
+
+body {
+  background: #3d3551;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+main, h1 {
+  color: #884ea2;
+}
+
+main p {
+  font-size: 2em;
+  text-align: center;
+}
+
+main button {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 2em;
+  color: #fffc3a;
+  background: transparent;
+  border: 0px;
+  position: relative;
+  left: 825px;
+  bottom: 80px;
+}
+
+main button:active {
+      border: 0px;
+  }
+
+#weather_condition {
+  margin-top: -40px;
+}
+
+#weather_icon img {
+  width: 100px;
+  height: 100px;
+}
+
+footer {
+  margin-top: 90px;
+}
+
+footer a {
+  float: right;
+  color: #ea648d;
+}
