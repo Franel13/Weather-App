@@ -1,7 +1,25 @@
-<h1>Weather Application</h1>
+Welcome to the HyperDev BETA
+============================
 
-<h2>Using the OpenWeather API, I developed an app that retrieves information about the weather based on your browser location</h2>
+Click `"Show"` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-<a target="_blank" href="https://curse-moon.glitch.me/">Live Preview</a>
+HyperDev is a developer playground that lets you code a real web-app without the slow setup and deployment steps. 
 
-<h3>Make sure to allow your location and content from other sources('OpenWeather API')</h3>
+
+Your Project
+------------
+
+On the back-end,
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env`
+
+On the front-end,
+- edit `client.js`, `style.css` and `index.html`
+- drag in `assets`, like images or music, to add them to your project
+
+
+Made by Fog Creek
+-----------------
+
+\ ゜o゜)ノ
